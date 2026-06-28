@@ -1,1 +1,1 @@
-# SonicSync---Music-Player-App
+# SonicSync-Music-Player-App
